@@ -11,18 +11,10 @@
 // about supported directives.
 //
 //= require jquery
-//= require jquery-1.8.3.min
-//= require jquery-ui-1.9.2.custom.min
-//= require jquery.backstretch.min
-//= require jquery.dcjqaccordion.2.7
-//= require jquery.nicescroll
-//= require jquery.scrollTo.min
-//= require jquery.sparkline
-//= require jquery.tagsinput
-//= require jquery.ui.touch-punch.min
-//= require morris-conf
-//= require sparkline-chart
-//= require tasks
-//= require zabuto_calendar
 //= require bootstrap.min
-//= require bootstrap-switch
+//= require jquery-ui-1.9.2.custom.min
+//= require jquery.ui.touch-punch.min
+//= require jquery.dcjqaccordion.2.7
+//= require jquery.scrollTo.min
+//= require jquery.nicescroll
+//= require common-scripts
